@@ -19,7 +19,7 @@ module.exports = function(config) {
       './node_modules/jquery/dist/jquery.min.js',
       'test/**/*Spec.js',
 
-      // Not served, only included. Will accessible by `/base/public/...`
+      // Not served, only included. Will be accessible by `/base/public/...`
       // See: http://karma-runner.github.io/0.12/config/files.html
       { pattern: './public/**/*', included: false }
     ],
