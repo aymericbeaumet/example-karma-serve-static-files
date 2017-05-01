@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/aymericbeaumet/karma-serve-static-files",
   "devDependencies": {
-    "jquery": "^2.1.1",
-    "karma": "^0.12.21",
-    "karma-jasmine": "^0.2.2",
-    "karma-phantomjs-launcher": "^0.1.4"
+    "jquery": "^3.2.1",
+    "karma": "^1.6.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4"
   }
 }
